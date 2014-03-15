@@ -1,7 +1,7 @@
 chromium-windows-build
 ======================
 
-build chromium browser windows
+Build chromium browser Windows
 
 Description
 ----
