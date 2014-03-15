@@ -15,6 +15,8 @@ This script automates instructions listed in
 * [How to get the code using git](http://dev.chromium.org/developers/how-tos/get-the-code)
 * [Using the Ninja build system ](http://code.google.com/p/chromium/wiki/NinjaBuild)
 
+This script is tested under Windows 8 and Visual Studio 2013 Ultimate
+
 
 Goal
 ---
