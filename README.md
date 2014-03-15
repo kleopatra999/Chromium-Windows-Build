@@ -25,15 +25,15 @@ There are three goals of this project
 
 1. Build automatically Chromium most recent stable release.
 1. Involve to this project developers from Chromium comminity.
-1. Influence on official build instructions. Make them more simplier and predictable.
+1. Influence on [official](http://www.chromium.org/developers/how-tos/build-instructions-windows)  [instructions](http://dev.chromium.org/developers/how-tos/get-the-code). Make them more linear and predictable.
 
 
 Depencies
 ----
 
-1. Before run this script install depot tools manually http://dev.chromium.org/developers/how-tos/install-depot-tools
+1. Before run this script [install depot tools](http://dev.chromium.org/developers/how-tos/install-depot-tools) 
 1. Before run this script install visual studio 2013
-1. Before run this script install http://git-scm.com/download/win
+1. Before run this script [this git distribution](http://git-scm.com/download/win)
 
 Using
 ----
