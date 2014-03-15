@@ -1,4 +1,4 @@
-chromium-windows-build
+Chromium Windows Build
 ======================
 
 Build chromium browser Windows
