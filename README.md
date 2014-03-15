@@ -21,7 +21,7 @@ This script is tested under Windows 8 and Visual Studio 2013 Ultimate
 Goal
 ---
 
-There are two goals of this project
+There are three goals of this project
 
 1. Build automatically Chromium recent stable release.
 1. Involve to this project developers from Chromium comminity.
