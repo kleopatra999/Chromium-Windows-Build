@@ -7,7 +7,7 @@ Description
 ----
 
 Building chromium can be time consuming. The process itself (fetching code and building) takes about 5 hours. 
-But setting up source code is not simple task espessially after moving to git and depricating svn instructions.  
+But setting up source code is not simple task espessially after moving from svn to git and depricating svn instructions.  
 You can spend several days trying to figure out how it works. Official insturction are not guarantee of the success.
 
 This script automates instructions listed in 
