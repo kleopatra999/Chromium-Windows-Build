@@ -6,7 +6,8 @@ build chromium browser windows
 Description
 ----
 
-This script automates instructions listed in [Chrommium Build Instructions Windows]( http://www.chromium.org/developers/how-tos/build-instructions-windows],
+This script automates instructions listed in 
+[Chrommium Build Instructions Windows]( http://www.chromium.org/developers/how-tos/build-instructions-windows],
 (how to get the code using git)[http://dev.chromium.org/developers/how-tos/get-the-code] and (Using the Ninja build system )[http://code.google.com/p/chromium/wiki/NinjaBuild]
 
 
