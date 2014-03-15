@@ -37,7 +37,10 @@ Depencies
 1. Before run this script [Windows SDK for Windows 8](http://msdn.microsoft.com/en-us/windows/hardware/hh852363.aspx) to default folder
 1. Before run this script [this git distribution](http://git-scm.com/download/win) to default folder
 
-Using
+Settings
+----
+
+Usage
 ----
 * Clone repository
 * Change open repository directory
