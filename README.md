@@ -39,5 +39,6 @@ Depencies
 
 Using
 ----
-
-Run this script from windows command prompt without any parameters.
+* Clone repository
+* Change open repository directory
+* Run `makechromiumstable.bat` without any parameters.
