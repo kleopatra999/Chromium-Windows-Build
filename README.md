@@ -42,6 +42,6 @@ Settings
 
 Usage
 ----
-* Clone repository
-* Change open repository directory
-* Run `makechromiumstable.bat` without any parameters.
+1. Clone repository
+2. Change open repository directory
+3. Run `makechromiumstable.bat` without any parameters.
