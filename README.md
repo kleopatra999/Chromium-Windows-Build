@@ -39,4 +39,4 @@ Depencies
 Using
 ----
 
-Run this script from windows command prompt
+Run this script from windows command prompt without any parameters.
