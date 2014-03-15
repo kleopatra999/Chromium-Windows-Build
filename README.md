@@ -18,7 +18,7 @@ This script automates instructions listed in
 This script is tested under Windows 8 with Visual Studio 2013 Ultimate
 
 
-Goal
+Goals
 ---
 
 There are three goals of this project
