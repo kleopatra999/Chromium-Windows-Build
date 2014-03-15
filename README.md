@@ -43,5 +43,5 @@ Settings
 Usage
 ----
 1. Clone repository to ssd drive with 40GB+ free space.
-2. Change open repository directory.
+2. Open repository directory.
 3. Run `makechromiumstable.bat` without any parameters.
