@@ -13,9 +13,9 @@ This script automates instructions listed in [Chrommium Build Instructions Windo
 Depencies
 ----
 
-Before run this script install depot tools manually http://dev.chromium.org/developers/how-tos/install-depot-tools
-Before run this script install visual studio 2013
-Before run this script install http://git-scm.com/download/win
+1. Before run this script install depot tools manually http://dev.chromium.org/developers/how-tos/install-depot-tools
+1. Before run this script install visual studio 2013
+1. Before run this script install http://git-scm.com/download/win
 
 Using
 ----
