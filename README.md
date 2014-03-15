@@ -24,7 +24,7 @@ Goal
 There are three goals of this project
 
 1. Build automatically Chromium most recent stable release.
-1. Involve to this project developers from Chromium community.
+1. Involve to this project developers from Chromium community. Integrate to official documentation.
 1. Influence on [official](http://www.chromium.org/developers/how-tos/build-instructions-windows)  [instructions](http://dev.chromium.org/developers/how-tos/get-the-code). Make them more linear and predictable.
 
 
