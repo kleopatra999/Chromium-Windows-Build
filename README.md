@@ -33,6 +33,7 @@ Depencies
 
 1. Before run this script [install depot tools](http://dev.chromium.org/developers/how-tos/install-depot-tools) 
 1. Before run this script install visual studio 2013
+1. Before run this script [Windows SDK for Windows 8](http://msdn.microsoft.com/en-us/windows/hardware/hh852363.aspx)
 1. Before run this script [this git distribution](http://git-scm.com/download/win)
 
 Using
